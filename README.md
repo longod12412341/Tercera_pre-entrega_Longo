@@ -8,5 +8,7 @@ Pero no van a realizar ninguna accion
    La de cursos donde al igual que las otras dos mencionadas anteriormente se pueden ingresar desde el URL. A estos tres models tiene su propia BD la cual se pueden agregar datos
 3) Y como ultimo hay una funcion para buscar cursos en la base de datos (app_g/buscar) la cual permite ver la base de datos de cursos, pero no permite modificarla.
 4) Hablando de herecias de HTML , en todos utilice el mismo template y fueron cargados todos por igual para manterner la mayoria de las paginas iguales
+5) Use el entorno virtual que nos recomendo el profe, llamado "pipenv" y creer una rama en git.
+6) Esto es para recalcar que usea Python 3.10.4 y Django 4.2, de todas manera hay un requiremenst que lo dice.
 Bueno eso es todo. Muchas gracias por la correcion.
 Leandro Longo
